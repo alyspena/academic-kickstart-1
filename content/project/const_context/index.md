@@ -2,7 +2,7 @@
 title: Contextualizing Construction Incident Reports
 summary: In this research, we study the design of virtual environments to represent construction accident reports provided by the Occupational Health and Safety Administration (OSHA)
 tags:
-- interactive
+- Interactive
 date: "2017-03-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -13,10 +13,6 @@ image:
   focal_point: ""
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
