@@ -1,15 +1,15 @@
 ---
-title: Contextualizing Construction Incident Reports
-summary: In this research, we study the design of virtual environments to represent construction accident reports provided by the Occupational Health and Safety Administration (OSHA)
+title: Visual Media
+summary: A compilation of prior visualization media projects
 tags:
-- Interactive
+- Media
 date: "2017-03-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Image cube displaying a photo taken from the incident location at the corresponding virtual environment location.
+  caption: Screenshot with Knot Today short. Credited for pipeline, layout, and compositing.
   focal_point: ""
 
 links:
@@ -42,9 +42,19 @@ gallery_item:
 
  <!-- The purpose of this research was to understand how to contextualize information visually, textually, and spacially. -->
 
-
-{{<youtube Qj1yGvuwGvs>}}
-</br>
-<div style="font-size:20px">Image Gallery</div>
-{{<gallery album="const_context">}}
+<div style="font-size:30px"><b>Knot Today</b></div>
+Texas A&M Visualization summer course collaboration with Disney Animation. Given 12 weeks and a team of 6, we were asked to complete a 30 second <em>kite</em> themed animation. </br></br>
+<b>Tools: </b>Maya, Nuke</br></br>
+<!-- {{<youtube Qj1yGvuwGvs>}} -->
+{{<vimeo 140432340>}}
+<!-- </br>
+<div style="font-size=20px">Image Gallery</div>
+{{<gallery album="const_context">}} -->
 <!-- {{<gallery album="\_gallery">}} -->
+
+</br>
+<div style="font-size:30px"><b>Mushy's Mirror</b></div>
+Part of a team of 3 in digital compositing class (Texas A&M Visualization, VIZA 665).</br>
+<b>Tools: </b>Maya, Nuke</br></br>
+
+{{<vimeo 140431784>}}
