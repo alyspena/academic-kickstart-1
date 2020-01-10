@@ -43,7 +43,7 @@ gallery_item:
  <!-- The purpose of this research was to understand how to contextualize information visually, textually, and spacially. -->
 
 <div style="font-size:30px"><b>Knot Today</b></div>
-Texas A&M Visualization summer course collaboration with Disney Animation. Given 12 weeks and a team of 6, we were asked to complete a 30 second <em>kite</em> themed animation. </br></br>
+Texas A&M Visualization summer course collaboration with Disney Animation. Given 12 weeks and a team of 6, we were asked to complete a 30 second <em>kite</em> themed animation. </br>
 <b>Tools: </b>Maya, Nuke</br></br>
 <!-- {{<youtube Qj1yGvuwGvs>}} -->
 {{<vimeo 140432340>}}
@@ -54,7 +54,7 @@ Texas A&M Visualization summer course collaboration with Disney Animation. Given
 
 </br>
 <div style="font-size:30px"><b>Mushy's Mirror</b></div>
-Part of a team of 3 in digital compositing class (Texas A&M Visualization, VIZA 665).</br>
+Digital compositing assignment completed in a team of 3 (Texas A&M Visualization, VIZA 665).</br>
 <b>Tools: </b>Maya, Nuke</br></br>
 
 {{<vimeo 140431784>}}

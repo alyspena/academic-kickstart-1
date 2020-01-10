@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have a B.S. in Civil Engineering and a M.S. in Visualization from Texas A&M. Outside of work, I am participating in Georgia Tech's Online Master of Science Computer Science program to further expand upon ... In my free time I create traditional artwork, run, bike ride, and explore new places.
+bio: I have a B.S. in Civil Engineering and a M.S. in Visualization from Texas A&M. Outside of work, I am participating in Georgia Tech's Online Master of Science Computer Science program to further my knowledge in Explainable AI and computer science fundamentals. In my free time I create traditional artwork, run, bike ride, and explore new places.
 
 interests:
 - Machine Learning

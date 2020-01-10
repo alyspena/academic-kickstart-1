@@ -28,7 +28,7 @@ abstract: Sensemaking in visual analytics attempts to understand how a tool is b
 summary: In this research, we aim to understand how data-driven techniques can automatically identify changes in user behavior (inflection points) based on user interaction logs collected from eye tracking and mouse interactions.
 
 tags:
-- sensemaking
+- Sensemaking
 featured: true
 
 links:
@@ -48,7 +48,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- interaction_provenance
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

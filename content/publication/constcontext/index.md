@@ -28,7 +28,7 @@ abstract: Safety education is important in the construction industry. While rese
 summary: In this research, we study the design of virtual environments to represent construction accident reports provided by the Occupational Health and Safety Administration (OSHA)
 
 tags:
-- sensemaking
+- Interactive
 featured: true
 
 links:

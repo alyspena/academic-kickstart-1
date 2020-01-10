@@ -1,5 +1,5 @@
 ---
-title: "Detecting Changes in User Behavior to Understand Interaction Provenance during Visual Data Analysis"
+title: "Results and Challenges in Visualizing Analytic Provenance of TextAnalysis Tasks Using Interaction Logs"
 authors:
 - Rhema Linder
 - admin
@@ -30,7 +30,7 @@ abstract: After data analysis, recalling and communicating the steps and rationa
 summary: This paper explores the use of interaction logs to generate LDA based summaries of an analyst’s interest based on interactions with specific data items in a text analysis scenario.
 
 tags:
-- sensemaking
+- Sensemaking
 featured: true
 
 links:
@@ -50,7 +50,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- interaction_provenance
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

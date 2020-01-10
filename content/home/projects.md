@@ -29,9 +29,9 @@ subtitle = ""
   name = "Interactive"
   tag = "Interactive"
 
-  #[[content.filter_button]]
-  #name = "Sensemaking"
-  #tag = "Sensemaking"
+  [[content.filter_button]]
+  name = "Sensemaking"
+  tag = "Sensemaking"
 
   #[[content.filter_button]]
   #name = "Deep Learning"

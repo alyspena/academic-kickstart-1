@@ -1,15 +1,15 @@
 ---
-title: Contextualizing Construction Incident Reports
-summary: In this research, we study the design of virtual environments to represent construction accident reports provided by the Occupational Health and Safety Administration (OSHA)
+title: Interaction Provenance
+summary: Exploring how users use visualizations and switch between contexts.
 tags:
-- Interactive
-date: "2017-03-18T00:00:00Z"
+- Sensemaking
+date: "2017-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Image cube displaying a photo taken from the incident location at the corresponding virtual environment location.
+  caption: Screenshot of visual analytic tool with visualized eye tracking over time.
   focal_point: ""
 
 links:
@@ -41,12 +41,12 @@ gallery_item:
 ---
 
  <!-- The purpose of this research was to understand how to contextualize information visually, textually, and spacially. -->
-In this research, we study the design of an application to represent construction accident reports provided by the Occupational Health and Safety Administration (OSHA).</br>
 
-{{<youtube Qj1yGvuwGvs>}}
-</br>
-<a href="https://oaktrust.library.tamu.edu/handle/1969.1/161647">Master's Thesis Paper</a>
-<div style="font-size:20px">Image Gallery</div>
+<div style="font-size:30px"><b>Datasets</b></div>
+<a href="https://arxiv.org/pdf/1801.05076.pdf">Analytic Provenance Datasets: A DataRepository of Human Analysis Activityand Interaction Logs</a></br>
+"We present an analytic provenance data repository thatcan be used to study human analysis activity, thought pro-cesses, and software interaction with visual analysis toolsduring exploratory data analysis."
 
-{{<gallery album="const_context">}}
-<!-- {{<gallery album="\_gallery">}} -->
+</br></br>
+<div style="font-size:30px"><b>ProvThreads</b></div>
+Responsible for data visualization component of the project.</br>
+{{<youtube sbqSvaHggMs>}}

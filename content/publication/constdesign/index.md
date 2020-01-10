@@ -29,6 +29,7 @@ abstract: . Safety education is important in the construction industry, with man
 summary: In this research, we conducted a case study in system design to understand how to effectively contextualize raw incident reports into a meaningful 3D educational experience.
 
 tags:
+- Interactive
 - construction safety
 - virtual environments
 - virtual reality
