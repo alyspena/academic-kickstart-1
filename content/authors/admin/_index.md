@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Master of Science in Computer Science
+  - course: M.S. in Computer Science
     institution: Georgia Tech
     year: Current
   - course: M.S. in Visualization
